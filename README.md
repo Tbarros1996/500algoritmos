@@ -1,4 +1,7 @@
-# Introdução à Programação: 500 Algoritmos Resolvidos Com Python 
+<p align="center">
+  <h1> Introdução à Programação: 500 Algoritmos Resolvidos Com Python </h1>
+</p>
+
 
 <p align="center">
   <img src=https://m.media-amazon.com/images/I/51ljjwmnAhL._SX352_BO1,204,203,200_.jpg
