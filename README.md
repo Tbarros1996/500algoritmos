@@ -9,7 +9,7 @@
 
 
   
-## Descrição do Projeto: ⚙️
+## 1.Descrição do Projeto: ⚙️
 
 
 Esse projeto tem como objetivo re-escrever os algoritmos do Livro Introdução à 
@@ -21,7 +21,7 @@ Esse projeto é direcionado a entusiatas da linguagem que desejam praticar seus 
 que estejam cursando as disciplinas de Introdução a Programação, etc.
 
 
-## Descrição do Livro: 📖
+## 2.Descrição do Livro: 📖
 
 Via Amazon
 
@@ -29,7 +29,7 @@ Esta obra é indicada para um público iniciante em programação imperativa de 
 
   **Link do Livro**: [Amazon](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-%C3%A0-Programa%C3%A7%C3%A3o-Algoritmos-Resolvidos/dp/8535210199)
   
-  ## Capitulos do Livro: ➡️
+  ## 3.Capitulos do Livro: ➡️
   
   1. Capitulo 1 - Conceitos Iniciais
   2. Capitulo 2 - Variável, expressões, funções, atribuição, entrada e saída 
@@ -38,7 +38,7 @@ Esta obra é indicada para um público iniciante em programação imperativa de 
   5. Capitulo 5 - Estruturas homogêneas: vetores e matriz 
   6. Capitulo 6 - Funções 
   
-  ## Status de Resolução: ✅❌
+  ## 4.Status de Resolução: ✅❌
   
   Capitulo | Andamento |
   :--------: |:-----------:|
