@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 100
-# Capitulo 2
+# Capitulo 3
 
 
 # Nota: A questão apresentava uma resolução diferente do que pedia logo se fez diferente
