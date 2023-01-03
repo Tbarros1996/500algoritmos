@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 92
-# Capitulo 2
+# Capitulo 3
 
 """
 Construir um algoritmo que leia dois números e efetue a adição. 
