@@ -5,8 +5,7 @@
 # Capitulo 4
 
 """
-Entrar com 10 números e imprimir a 
-metade de cada número
+Entrar com 10 números e imprimir o quadrado de cada número
 
 """
 for i in range(0,10):
