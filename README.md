@@ -43,7 +43,7 @@ Esta obra é indicada para um público iniciante em programação imperativa de 
   Capitulo | Andamento |
   :--------: |:-----------:|
   1        | -
-  2        |91%
+  2        |100%
   3|100%
   4|10%
   5|0%
