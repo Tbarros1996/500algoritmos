@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 107/108
-# Capitulo 2
+# Capitulo 3
 
 
 """

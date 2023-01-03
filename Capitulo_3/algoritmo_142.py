@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 142
-# Capitulo 2
+# Capitulo 3
 
 """
 Em um campeonato nacional de arco-e-flecha, tem-se equipes de três jogadores 

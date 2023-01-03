@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 145
-# Capitulo 2
+# Capitulo 3
 
 """
 A biblioteca de uma universidade deseja fazer um algoritmo que leia o nome do 

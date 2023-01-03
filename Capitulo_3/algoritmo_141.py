@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 141
-# Capitulo 2
+# Capitulo 3
 
 """
 Criar um algoritmo que leia o nome e o total de pontos de três finalistas de um 

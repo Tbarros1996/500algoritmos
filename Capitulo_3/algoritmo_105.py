@@ -3,7 +3,7 @@
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 105
 
-# Capitulo 2
+# Capitulo 3
 
 # Algoritmo usando o Python 3.10 utilizando o caso do mach case
 

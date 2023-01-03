@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 139
-# Capitulo 2
+# Capitulo 3
 
 """
 Sabendo que somente os municípios que possuem mais de 20.000 eleitores aptos 

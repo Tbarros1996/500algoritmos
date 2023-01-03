@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 151
-# Capitulo 2
+# Capitulo 3
 
 """
 Um endocrinologista deseja controlar a saúde de seus pacientes e, para isso, se 

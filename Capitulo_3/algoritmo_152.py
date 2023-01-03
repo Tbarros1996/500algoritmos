@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 152
-# Capitulo 2
+# Capitulo 3
 
 """
 Criar um algoritmo que a partir da idade e peso do paciente calcule a dosagem de 

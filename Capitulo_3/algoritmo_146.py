@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 146
-# Capitulo 2
+# Capitulo 3
 
 """
 Fazer um algoritmo que leia o percurso em quilômetros, o tipo do carro e informe 

@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 120
-# Capitulo 2
+# Capitulo 3
 
 """
 Entrar com três números e armazená-los em três variáveis com os seguintes no-

@@ -3,7 +3,7 @@
 # Exercícios resolvidos com base no Livro  
 # 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 115
-# Capitulo 2
+# Capitulo 3
 
 
 """

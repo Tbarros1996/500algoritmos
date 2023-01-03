@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 138
-# Capitulo 2
+# Capitulo 3
 
 """
 Ler um número inteiro entre 1 e 12 e escrever o mês correspondente. Caso o 

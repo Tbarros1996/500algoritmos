@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 131
-# Capitulo 2
+# Capitulo 1
 
 """
 A turma de Programação 1, por ter muitos alunos, será dividida em dias de provas.

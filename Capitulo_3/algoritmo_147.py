@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 147
-# Capitulo 2
+# Capitulo 3
 
 """
 Criar um algoritmo que informe a quantidade total de calorias de uma refeição a 

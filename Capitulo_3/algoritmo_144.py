@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 144
-# Capitulo 2
+# Capitulo 3
 
 """
 O banco XXX concederá um crédito especial com juros de 2% aos seus clientes de 

@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 137
-# Capitulo 2
+# Capitulo 3
 
 """
 Ler três valores inteiros (variáveis a, b e c) e efetuar o cálculo da equação de 
