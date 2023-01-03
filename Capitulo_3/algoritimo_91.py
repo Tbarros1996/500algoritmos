@@ -2,7 +2,7 @@
 # Thiago Barros
 # Exercícios resolvidos com base no Livro - 500 Algoritimos Resolvidos (ANITA LOPES E GUTO GARCIA)
 # Algoritimo Numero 91
-# Capitulo 2
+# Capitulo 3
 
 """
 Entrar com dois números e imprimir a soma casa essa seja maior que 10
